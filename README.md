@@ -1,2 +1,2 @@
-# prateek
-Prateek Aryal
+# Aditya
+Aditya Kumar Upadhyay
